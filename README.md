@@ -14,7 +14,7 @@
 
 <br />
 <div align="center">
-  <a href="https://sunguoqi.com/">
+  <a href="https://github.com/okeypis-cell/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=别更新了，学不动了！！！;在学了，在学了。&pause=2000&center=true&size=27">
   </a>
 </div>
