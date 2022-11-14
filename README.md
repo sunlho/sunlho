@@ -21,7 +21,8 @@
 <div align="center">
   <img  src="https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Flutter-blue?style=-square&logo=flutter&logoColor=white" />
-    <img  src="https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white" />
+  <img  src="https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white" />
+  <img  src="https://img.shields.io/badge/-Nestjs-blue?style=flat-square&logo=nestjs&logoColor=white" />
 </div>
 <br />
 <div align="center">
