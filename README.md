@@ -1,7 +1,7 @@
 <br />
-<div align="center">
+<!-- <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=okeypis-cell&theme=xcode" />
-</div>
+</div> -->
 <br />
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
