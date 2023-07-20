@@ -7,7 +7,7 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 <br />
 <div align="center">
-	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript&logoColor=white" />
+  <img  src="https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vuedotjs&logoColor=white" />
 </div>
@@ -21,7 +21,6 @@
 <div align="center">
   <img  src="https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Flutter-blue?style=-square&logo=flutter&logoColor=white" />
-  <img  src="https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white" />
   <img  src="https://img.shields.io/badge/-Nestjs-blue?style=flat-square&logo=nestjs&logoColor=white" />
 </div>
 <br />
