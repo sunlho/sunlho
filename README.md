@@ -1,5 +1,3 @@
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-<br />
 <div align="center">
   <a href="https://github.com/okeypis-cell/">
     <img src="https://readme-typing-svg.herokuapp.com/?&width=860&lines=学无止境;通过阅读源码，站在前辈的角度上，去思考代码架构与程序逻辑，乃是提升编程技巧最好的方式。&pause=2000&center=true&size=20">
